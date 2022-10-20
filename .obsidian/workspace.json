@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "d6c5dc00884ee20f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a765080c39985cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f43c36e3b1aa8494",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9999d3da8d96afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "970936ef31ef744d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5ae2b2f9f5e710d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eae7949c2f10156a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f52401ca3950f3e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ca24e91d44b4da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bea227a596aec202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ece55a87651a981",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b540bdf169fd96aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f638f9198ccb704",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac55510a0375032e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f43c36e3b1aa8494",
+  "lastOpenFiles": [
+    "images/topology/Tire.png.md"
+  ]
+}
