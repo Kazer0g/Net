@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a765080c39985cc",
+        "id": "9fdd11f2cd51d054",
         "type": "tabs",
         "children": [
           {
-            "id": "f43c36e3b1aa8494",
+            "id": "2f296119c7520554",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -128,11 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "f43c36e3b1aa8494",
+  "active": "2f296119c7520554",
   "lastOpenFiles": [
-    "images/topology/Tire.png.md"
+    "Book/OSI/OSI.md",
+    "Book/Topology/Топологигя сетей.md",
+    "Book/Putty/Putty.md",
+    "Book/Putty/Putty images/Pasted image 20221027122641.png",
+    "Book/WireShark/Download WireSharkImages/Pasted image 20221027122128.png",
+    "Book/WireShark/Сетевой анализатор Wireshark.md",
+    "Book/WireShark/Download WireSharkImages/Pasted image 20221027114936.png",
+    "Book/WireShark/Download WireSharkImages/Pasted image 20221027113846.png",
+    "Pasted image 20221027114412.png",
+    "Book/WireShark/Download WireSharkImages/Pasted image 20221027114347.png"
   ]
 }
