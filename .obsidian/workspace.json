@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9fdd11f2cd51d054",
+        "id": "6d77a4d5f445be03",
         "type": "tabs",
         "children": [
           {
-            "id": "2f296119c7520554",
+            "id": "d6ddd316ca3a275d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Book/protocols/DHCP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 404.5
   },
   "right": {
     "id": "8ca24e91d44b4da8",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Book/protocols/DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Book/protocols/DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Book/protocols/DHCP.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f296119c7520554",
+  "active": "d6ddd316ca3a275d",
   "lastOpenFiles": [
-    "Book/OSI/OSI.md",
-    "Book/Topology/Топологигя сетей.md",
-    "Book/Putty/Putty.md",
-    "Book/Putty/Putty images/Pasted image 20221027122641.png",
-    "Book/WireShark/Download WireSharkImages/Pasted image 20221027122128.png",
-    "Book/WireShark/Сетевой анализатор Wireshark.md",
-    "Book/WireShark/Download WireSharkImages/Pasted image 20221027114936.png",
-    "Book/WireShark/Download WireSharkImages/Pasted image 20221027113846.png",
-    "Pasted image 20221027114412.png",
-    "Book/WireShark/Download WireSharkImages/Pasted image 20221027114347.png"
+    "Book/protocols/Ethernet.md",
+    "Book/protocols/IP.md",
+    "Book/protocols/RIP.md",
+    "Book/protocols/OSPF.md",
+    "Book/protocols/STP.md",
+    "Book/protocols/Token Ring.md",
+    "Book/protocols/TCP.md",
+    "Book/protocols/UDP.md",
+    "Book/protocols/x.25.md",
+    "Net.md"
   ]
 }
