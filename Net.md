@@ -13,6 +13,6 @@
 - community.fs.com
 
 Оглавление:
-[Топологигя сетей](%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B3%D1%8F%20%D1%81%D0%B5%D1%82%D0%B5%D0%B9.md)
-Модель [OSI](OSI.md)
-Работа с [Putty](Putty.md) и [WireShark](WireShark.md)
+[[Топологигя сетей]]
+Модель [[OSI]]
+Работа с [[Putty]] и [[WireShark]]
