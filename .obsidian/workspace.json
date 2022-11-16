@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "d6c5dc00884ee20f",
+    "id": "dda334a56e357afc",
     "type": "split",
     "children": [
       {
-        "id": "6d77a4d5f445be03",
+        "id": "657499faecc7bbc7",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ddd316ca3a275d",
+            "id": "c0f8daaa7ccad6b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book/protocols/DHCP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d9999d3da8d96afa",
+    "id": "c910064a952adbe8",
     "type": "split",
     "children": [
       {
-        "id": "970936ef31ef744d",
+        "id": "e4e447a1fdacc965",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ae2b2f9f5e710d",
+            "id": "bc0789bc0cf1f760",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "eae7949c2f10156a",
+            "id": "8cba4435d2bc94ca",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "7f52401ca3950f3e",
+            "id": "45ec40b803ef7e38",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 300
   },
   "right": {
-    "id": "8ca24e91d44b4da8",
+    "id": "c11324b7115b26b5",
     "type": "split",
     "children": [
       {
-        "id": "bea227a596aec202",
+        "id": "7c9065da915979bd",
         "type": "tabs",
         "children": [
           {
-            "id": "2ece55a87651a981",
+            "id": "49e9b207bc681b99",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/protocols/DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "b540bdf169fd96aa",
+            "id": "7de8947f6644069a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/protocols/DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2f638f9198ccb704",
+            "id": "8d7eb06cae0aadc2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "ac55510a0375032e",
+            "id": "0a8d97aaaa33eceb",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Book/protocols/DHCP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +128,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6ddd316ca3a275d",
+  "active": "c0f8daaa7ccad6b2",
   "lastOpenFiles": [
-    "Book/protocols/Ethernet.md",
-    "Book/protocols/IP.md",
-    "Book/protocols/RIP.md",
-    "Book/protocols/OSPF.md",
-    "Book/protocols/STP.md",
-    "Book/protocols/Token Ring.md",
-    "Book/protocols/TCP.md",
-    "Book/protocols/UDP.md",
-    "Book/protocols/x.25.md",
-    "Net.md"
+    "references/Olifer_Kompyuternye_seti.pdf",
+    "manual/practic/Putty/Putty.md",
+    "manual/practic/WireShark/WireShark.md",
+    "Net.md",
+    "manual/protocols/single_protocols/IP.md",
+    "manual/protocols/OSI.md"
   ]
 }

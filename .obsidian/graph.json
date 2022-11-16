@@ -1,22 +1,44 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:manual/protocols",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "path:manual/topology",
+      "color": {
+        "a": 1,
+        "rgb": 14711890
+      }
+    },
+    {
+      "query": "path:manual/practic",
+      "color": {
+        "a": 1,
+        "rgb": 5431459
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.998333333333333,
-  "lineSizeMultiplier": 0.998333333333333,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.270833333333333,
-  "repelStrength": 8.41666666666667,
+  "centerStrength": 0.1,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 198,
-  "scale": 0.5010440180225082,
-  "close": false
+  "linkDistance": 300,
+  "scale": 0.18462326225858133,
+  "close": true
 }
